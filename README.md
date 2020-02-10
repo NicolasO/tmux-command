@@ -19,6 +19,9 @@ attach to named:
 
     tmux a -t myname
 
+Scroll in windows: 
+
+    control + b & after [  then q to quit
 
 list sessions:
 
